@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Views</OriginalElement>
+  <nodes>
+    <node x="-176.74250681198905" y="419.64032697547685">Order</node>
+    <node x="173.05649035264855" y="421.10490463215257">Restaurant</node>
+    <node x="497.4115728845379" y="8.296408138406285">Views</node>
+    <node x="139.11989100817442" y="181.95776566757502">Controls</node>
+    <node x="100.65258855585824" y="13.189373297002817">Models</node>
+    <node x="544.1107336684795" y="434.3113538054863">MenuItem</node>
+    <node x="-180.07084468664857" y="10.90871934604911">Main</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0133369203530065" x="325.73491384060594" y="345.1697706150406" />
+  <SelectedNodes>
+    <node>MenuItem</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
